@@ -39,6 +39,16 @@ O Android SDK Manager é uma ferramenta fundamental para qualquer desenvolvedor 
 Esperamos que este guia tenha fornecido uma visão abrangente sobre o Android SDK Manager e suas capacidades de gerenciamento de versões do Android. Com esse conhecimento, você está pronto para iniciar sua
 
 
+## Instalação
+
+Problemas com o software na hora de gerar APK, lembrando utilize um computador atualizado
+
+```bash
+    Tutorial https://youtu.be/U8EH45MYUkU
+    Download Java sdk: https://www.oracle.com/br/java/technologies/downloads/#jdk22-windows
+    Download Java: https://www.java.com/pt-BR/download/
+    Download Visual Studio 2022
+```
 
 ## Screenshots
 
@@ -202,7 +212,6 @@ Andromeda Software V2.0 https://youtu.be/KgvPk6yCAq4?si=EsvG9VX6_vlD6Gol Dashboa
 
 
 ## Demonstração Andromeda V4.5
-
 Andromeda Software V4.5 https://youtu.be/mlJpBKSTovY?si=PR4psSHnX_nJ7FX5 ('-')
 ## Referência
 
